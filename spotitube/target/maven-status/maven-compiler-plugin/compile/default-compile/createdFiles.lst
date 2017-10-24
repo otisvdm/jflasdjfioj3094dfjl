@@ -1,0 +1,13 @@
+nl\otis\domain\Token.class
+nl\otis\functions\DBconnect.class
+nl\otis\endpoints\dto\PlaylistsRequestBody.class
+nl\otis\endpoints\dto\TracksResponseBody.class
+nl\otis\endpoints\LoginRestController.class
+nl\otis\endpoints\dto\LoginResponseBody.class
+nl\otis\endpoints\PlaylistsRestController.class
+nl\otis\TEST.class
+nl\otis\endpoints\dto\PlaylistsResponseBody.class
+nl\otis\domain\Track.class
+nl\otis\endpoints\TracksRestController.class
+nl\otis\endpoints\dto\LoginRequestBody.class
+nl\otis\domain\Playlist.class

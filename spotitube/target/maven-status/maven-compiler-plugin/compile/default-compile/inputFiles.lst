@@ -1,0 +1,13 @@
+C:\Spotitube\spotitube\src\main\java\nl\otis\domain\Track.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\endpoints\dto\PlaylistsResponseBody.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\endpoints\PlaylistsRestController.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\TEST.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\endpoints\TracksRestController.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\domain\Playlist.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\endpoints\dto\LoginResponseBody.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\domain\Token.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\endpoints\LoginRestController.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\functions\DBconnect.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\endpoints\dto\LoginRequestBody.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\endpoints\dto\PlaylistsRequestBody.java
+C:\Spotitube\spotitube\src\main\java\nl\otis\endpoints\dto\TracksResponseBody.java

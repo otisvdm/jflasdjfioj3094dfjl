@@ -1,7 +1,7 @@
 package nl.otis;
 
-import nl.otis.Functions.DBconnect;
-import nl.otis.Objects.Track;
+import nl.otis.functions.DBconnect;
+import nl.otis.domain.Track;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

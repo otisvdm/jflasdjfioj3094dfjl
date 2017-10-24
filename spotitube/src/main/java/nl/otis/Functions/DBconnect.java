@@ -1,4 +1,4 @@
-package nl.otis.Functions;
+package nl.otis.functions;
 
 import java.sql.*;
 
