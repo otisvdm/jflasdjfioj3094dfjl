@@ -21,12 +21,12 @@ CREATE TABLE `Spotitube`.`tracks` (
   `playcount` INT(4) NULL,
   `publicationDate` DATE NULL,
   `description` VARCHAR(510) NULL,
-  `offlineAvailable` BOOLEAN NULL,
   PRIMARY KEY (`id`));
   
 CREATE TABLE `Spotitube`.`trackInPlaylist` (
   `trackId` INT NOT NULL,
   `playlistId` INT NOT NULL,
+  `offlineAvailable` BOOLEAN NOT NULL,
   PRIMARY KEY(`trackId`,`playlistId`),
   FOREIGN KEY(`playlistId`) REFERENCES `playlists`(`id`),
   FOREIGN KEY(`trackId`) REFERENCES `tracks`(`id`));
